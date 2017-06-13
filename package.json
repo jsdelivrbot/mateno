@@ -1,0 +1,24 @@
+{
+  "name": "mateno",
+  "version": "0.0.1",
+  "description": "A barebones Node.js app using Express 4",
+  "engines": {
+    "node": "6.10.2"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.27.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/willv19/mateno"
+  },
+  "keywords": [
+    "telegram",
+    "mateno"
+  ],
+  "license": "MIT"
+}

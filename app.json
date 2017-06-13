@@ -1,0 +1,7 @@
+{
+  "name": "Mateno",
+  "description": "A morning bot for Telegram build with nodejs",
+  "repository": "https://github.com/willv19/mateno",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["telegram", "mateno"]
+}
