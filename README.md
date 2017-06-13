@@ -1,2 +1,2 @@
 # mateno
-A ruby-based morning bot for Facebook Messenger designed to be run on Heroku
+A containerized node telegram app to send morning messages
